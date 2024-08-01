@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "zus",
+    "password": "azerty02",
+    "database": "db_delta",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "zus",
+    "password": "azerty02",
+    "database": "db_delta",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "zus",
+    "password": "azerty02",
+    "database": "db_delta",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
